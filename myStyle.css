@@ -1,0 +1,31 @@
+.header{
+    background-color: rgba(33, 60, 119,0.7);
+    color: snow;
+   
+}
+
+.header a{
+
+    color: snow;
+    text-decoration: none;
+    
+}
+.header h1{
+    text-align: center;
+}
+.content p{
+    text-indent: 10%;
+}
+.content h3{
+    text-indent: 3%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.footer{
+    background-color: rgb(56, 134, 80);
+    color: snow;
+    text-align: center;
+}
+
+.Container{
+    background-image: url("banner.jpg");
+}
