@@ -1,4 +1,4 @@
 # FIRST WEBSITE
-1.MYFirstWebsite.html
-2.Mystyle.css
+1.Firstweb.html
+2.myStyle.css
 3.banner.jpg
